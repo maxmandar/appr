@@ -1,0 +1,58 @@
+
+**Rajeev (Rating: 4)**
+
+As the VP1 of our team, Rajeev has consistently displayed excellent technical leadership across a wide range of projects. His role as a technical lead in our initiatives has been invaluable in overcoming complex challenges and driving successful project outcomes.
+
+Rajeev played a crucial role in the Control-M upgrades for UOB Thailand and the Connect Direct Migration, where his technical expertise was key to the success of these initiatives. His command over the technical aspects of these projects ensured that they were completed on time, aligning with the planned timelines.
+
+His technical leadership was also critical in the completion of the long-standing Control-M for DMZ workload automation project. Rajeev's ability to understand and navigate intricate technical environments was instrumental in automating the testing process through the Control-M for zOS SIT, resulting in faster delivery and releases.
+
+Rajeev also led the successful integration of Control-M Job execution data into Splunk for Dashboard, providing an efficient solution for job and trend analysis in both PROD and UAT environments. His technical prowess and implementation skills played a key role in reducing CTM Jobs ordering in UAT as consolidated data is now populated for UAT in Splunk, enabling easy tracking.
+
+In the context of Kubernetes and CTM integration, Rajeev's technical expertise has been fundamental in making significant progress. The team has managed to complete image creation, fix vulnerabilities, and is currently working on deployment, all under his technical leadership.
+
+During the month of February, when our CTM faced four major issues, Rajeev's technical knowledge and problem-solving skills were instrumental in mitigating potential disruptions. His dedication and problem-solving capabilities, especially during the resolution of the UOB ID login issue, ensured smooth business operations. He was also integral in resolving the CPU1 New Day process multi-day issue and mitigating disruptions due to unplanned OS patching.
+
+Furthermore, Rajeev has shown tremendous dedication by providing Business as Usual (BAU) support for OS patching, system maintenance, and GMP and other apps DR and RDR support during weekends. His technical skills and dedication have played a pivotal role in ensuring our UOB/PROD/DR services remain operational and healthy.
+
+In summary, Rajeev's technical leadership, problem-solving abilities, and dedication have significantly contributed to our team's successful project execution. His exceptional technical leadership skills have been instrumental in driving project success and innovation.
+
+
+
+Dharma (Rating: 3)
+
+Dharma, as our AVP, has consistently demonstrated proficiency in the execution of assigned tasks, effective tracking of work, and efficient communication with vendors and users, successfully meeting the expectations set for his role.
+
+He has contributed substantially to multiple projects, such as the Control-M upgrades for UOB Thailand and the Connect Direct Migration. His keen understanding of technical components and his effective execution skills have been integral to the success of these projects.
+
+His role in the Control-M for DMZ workload automation project, which was long-pending, was pivotal. With his diligent execution and technical expertise, we were able to complete the project successfully. Similarly, his contribution was significant in the Control-M for zOS SIT project, where his technical support enabled faster deliveries and releases.
+
+Dharma played an instrumental role in integrating Control-M Job execution data into Splunk for Dashboard. His adept handling of the project's technical aspects, effective vendor coordination, and successful implementation have provided a comprehensive solution for job and trend analysis in both PROD and UAT environments.
+
+In the context of Kubernetes and CTM integration, Dharma has shown commendable skills. He effectively handled image creation, addressed vulnerabilities, and is now working on the deployment stage of the project.
+
+During February, when our CTM faced multiple critical issues, Dharma's execution skills and technical knowledge were instrumental in resolving these challenges, particularly the UOB ID login issue, the CPU1 New Day process multi-day issue, and disruptions due to unplanned OS patching.
+
+Furthermore, Dharma has shown exceptional dedication by providing top-notch on-call support and contributing to BAU support for OS patching, system maintenance, and GMP and other apps DR and RDR support. His efforts ensure our UAT/PROD/DR services remain functional and robust, often requiring him to work on weekends.
+
+In summary, Dharma's commitment to execution, technical knowledge, and communication skills have made him an invaluable member of our team. His contributions have played a significant role in our project successes, and his consistent performance continues to meet the expectations set for his AVP role.
+
+Given his track record and his capacity for growth, it may now be the right time to assign additional responsibilities to Dharma. Expanding his role to cover planning aspects could give him valuable exposure and experience, and further his professional development. His proven dedication and technical expertise suggest he would handle such a transition effectively.
+
+
+Mandar
+Over the past year, I've had the opportunity to lead a talented and dedicated team while juggling a variety of responsibilities. My role spans strategic leadership, technical guidance, project management, and team development.
+
+I've overseen the Control-M initiatives where I've been hands-on in resolving complex technical issues that were beyond our vendor's reach. Identifying and rectifying performance bottlenecks in Control-M has been one of my key contributions.
+
+My efforts have also extended to the successful launch of new self-service capabilities. The Adhoc Control-M UAT module that we launched has seen great adoption, registering 125K user actions and being used by over 40 app teams in the first half of this year alone. Furthermore, the TrueSight Blackout module has been a significant release under my guidance, effectively supporting over 1100 blackout requests to date.
+
+The project of creating a self-service for the Bill of Material and Infra build form request faced a hiccup due to resource attrition. However, I've been committed to keeping the initiative afloat by actively seeking the right personnel.
+
+As part of my responsibility towards team development, I've taken two cloud interns under my wing. I'm actively training them on cloud engineering and we're working together on AMI build automation and AWS cost calculation/validation.
+
+I've also managed to successfully complete an audit and contract renewal while ensuring our budget tracking and resource allocation are top-notch. System roadmap tracking, business continuity management, new resource onboarding, and obsolescence management are other areas I've been diligently managing.
+
+June and July were challenging months for me personally due to my family relocating and facing health issues. This did affect my focus to some extent, but I appreciate the management's support during this period. I'm now ready to harness my energy and direct it towards our goals for the second half of the year.
+
+Overall, despite the challenges, I believe I've maintained a balance of strategic leadership, technical proficiency, and operational efficiency. As I move forward, I'm committed to continue driving our team's progress and setting the stage for future successes.
